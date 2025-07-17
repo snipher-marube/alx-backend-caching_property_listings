@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_redis',
-    'properties',  # Custom app for property listings
+    'properties',  
 ]
 
 MIDDLEWARE = [

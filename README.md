@@ -21,9 +21,3 @@ A Django project demonstrating Redis caching strategies for property listings, i
 - Python 3.8+
 - pip
 
-## Setup
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/alx-backend-caching_property_listings.git
-   cd alx-backend-caching_property_listings
